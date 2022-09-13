@@ -1,0 +1,3 @@
+My Journey to Become Developer in 1 year.
+- Learning Java for just basic.
+- Learning Python for just basic.
