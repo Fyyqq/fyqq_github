@@ -5,8 +5,6 @@ My Journey to Become Developer in 2 year.
 - Learning CSS
 - Learning Javascript
 
-~ February 2022 until June 2022 ~
-- Learning PHP
-- Learning Java.
-- Learning Python.
-
+~ July 2022 ~
+- Learning Sass
+- Learning Bootstrap
