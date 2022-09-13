@@ -1,10 +1,6 @@
-My Journey to Become Developer in 1 year.
+My Journey to Become Developer in 2 year.
 
-~ December 2021 until January 2022 ~
-- Learning Java just basic.
-- Learning Python just basic.
-
-~ February 2022 until June 2022 ~
+~ March 2021 until January 2022 ~
 - Learning HTML
 - Learning CSS
 - Learning Javascript
